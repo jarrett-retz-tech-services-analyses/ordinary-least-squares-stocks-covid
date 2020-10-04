@@ -79,7 +79,7 @@ A correlation of **-0.749** was found between the normalized price of Boeing and
 
 Performing an OLS analysis, with Boeing Price as the dependent variable, yielded the following results and summary table.
 
-![results.png](attachment:results.png)
+![results.png](./results.png)
 
 The p-value for the 7d avg. coefficient was 2.360545e-23.
 
