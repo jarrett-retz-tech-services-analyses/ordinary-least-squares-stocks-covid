@@ -1,0 +1,9 @@
+**/**/*.png
+
+.env
+
+*.env
+
+.DS_STORE
+
+*-checkpoint.ipynb
