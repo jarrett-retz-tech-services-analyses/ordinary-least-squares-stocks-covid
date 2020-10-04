@@ -75,7 +75,7 @@ Ordinary least squares analysis was conducted using the ````ols```` method from 
 
 A correlation of **-0.749** was found between the normalized price of Boeing and the 7d rolling average for COVID-19 deaths. 
 
-![./ba_price_avg_deaths_max_min.png](attachment:ba_price_avg_deaths_max_min.png)
+![ba_price_avg_deaths_max_min.png](./ba_price_avg_deaths_max_min.png)
 
 Performing an OLS analysis, with Boeing Price as the dependent variable, yielded the following results and summary table.
 
